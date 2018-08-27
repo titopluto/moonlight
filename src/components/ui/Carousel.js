@@ -9,11 +9,6 @@ import cloudHand from "../../static/img/cloud-hand_Fotor.jpg"
 
 
 
-
-
-
-
-
 const Carousel = (props) => {
     return (
     <div id="myCarousel" className="carousel slide" data-ride="carousel">

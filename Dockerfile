@@ -3,9 +3,9 @@
 FROM node
 
 # Labels for the image
-LABEL organization="INWK-DAL"
+LABEL organization="TITO-PLUTO"
 LABEL maintainer="Tito"
-LABEL description="React Application for VIRL"
+LABEL description="React Application for INWK"
 
 # The base node image sets a very verbose log level.
 ENV NPM_CONFIG_LOGLEVEL warn
