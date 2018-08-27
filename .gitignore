@@ -9,6 +9,7 @@
 # production
 /build
 
+.idea
 
 src/static/*
 src/data/*
