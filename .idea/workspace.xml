@@ -2,10 +2,119 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0502e4f5-b0f2-426b-a27c-06cf894614eb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" afterPath="$PROJECT_DIR$/Dockerfile" />
-      <change beforePath="$PROJECT_DIR$/src/components/ui/Carousel.js" afterPath="$PROJECT_DIR$/src/components/ui/Carousel.js" />
+      <change beforePath="$PROJECT_DIR$/src/static/css/Average-Regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/css/Cubano-Regular.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/css/FjallaOne-Regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/css/FrancoisOne.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/css/NavigatorStyle.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/css/Nunito-Regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/css/OpenSans-Light.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/css/OpenSans-Regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/css/carousel.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/css/deviceStyles.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/css/iconStyles.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/css/loginStyles.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/css/pageContentStyles.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/css/pdfStyles.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/css/podStyles.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/css/styles.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/Ciscologo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/ap.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/blue.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/board.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/bridge.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/chess.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/chess2.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/cisco-logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/cisco1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/cloud-hand.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/cloud-hand_Fotor.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/cloud-rain.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/cloud-rain2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/cloud-rain_Fotor.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/cloud-water.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/cloud.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/dal-gold-e.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/dalLogo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/datacenter.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/documentImg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/drone.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/drrobertson.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/equipment.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/explore.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/fabric1x..png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/fabric2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/fixing.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/fixing2.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/fixing3.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/fortinet.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/glassBuilding.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/inwk.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/juniper.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/keyboard.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/lab.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/lightbulb.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/lightbulb2.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/loginbg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/loginbg2.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/office-medium.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/office.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pattern.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pattern2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pchute.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pchute2.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pdfs/doc_pdfs/analyser-connection-pod1-14.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pdfs/doc_pdfs/analyser-connection-pod15-20.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pdfs/doc_pdfs/default-wiring-pod1-14.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pdfs/doc_pdfs/default-wiring-pod15-20.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pdfs/doc_pdfs/equipment-room.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pdfs/doc_pdfs/labguide.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pdfs/doc_pdfs/router-interfaces-pod1-14.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pdfs/doc_pdfs/router-interfaces-pod15-20.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pdfs/doc_pdfs/sniffer-ws-ip.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pdfs/doc_pdfs/switch-port-connection-pod1-14.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pdfs/doc_pdfs/switch-port-connection-pod15-20.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pdfs/lab_pdfs/programming/lab CIsco DevNet.docx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pdfs/lab_pdfs/programming/lab1.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pdfs/lab_pdfs/programming/lab2.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pdfs/lab_pdfs/programming/lab3.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pdfs/lab_pdfs/programming/lab4.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pdfs/lab_pdfs/programming/lab5.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pdfs/lab_pdfs/programming/lab6.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pdfs/lab_pdfs/programming/lab7.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pdfs/lab_pdfs/programming/~$lab1.docx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pdfs/lab_pdfs/programming/~$lab5.docx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pic1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pic2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pic3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/pod-texture.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/processor-texture.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/purple.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/rack.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/red-cloud.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/red-cloud_f.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/red.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/redhat.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/road-cloud.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/robot.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/router.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/sample.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/satelite.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/space.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/spiral.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/stair-cloud.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/stair-cloud512.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/stars.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/switch.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/tree1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/tree2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/tree3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/trees.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/two-buildings.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/vmware.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/white-smoke.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/wing-plane.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/wiringImg.png" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,18 +128,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PdfView.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/to_delete/PdfView.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PdfViewer.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/to_delete/PdfViewer.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -117,11 +214,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -933,14 +1040,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/store/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -1055,6 +1154,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
           <folding />
         </state>
       </provider>
