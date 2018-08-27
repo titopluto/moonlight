@@ -10,7 +10,8 @@
 /build
 
 
-
+src/static/*
+src/data/*
 
 
 # misc
