@@ -9,7 +9,7 @@
 # production
 /build
 
-src/.idea/
+.idea
 
 src/static/*
 src/data/*
